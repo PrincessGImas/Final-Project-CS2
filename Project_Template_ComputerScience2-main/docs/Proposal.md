@@ -1,24 +1,25 @@
 # 📌 Project Proposal (Draft)
 
 ## 📝 Project Title  
-*Enter your initial project title here.*  
+Automated Student Survey System for Feedback Collection and Acknowledgement
 
 ---
 
 ## 🔍 Problem Statement  
 What real-world problem does your project want to solve?  
-- Describe the issue or need you identified.  
-- Explain why this problem is relevant and worth solving.  
-- Relate the problem to the dataset you selected (e.g., hospital, ecommerce, students, etc.).  
-
+-Educational institutions need an efficient way to collect detailed feedback from students regarding subjects such as satisfaction, usability, design, clarity, and recommendations.
+-Collecting respondent information (ID, age, gender, grade level, section) alongside their opinions helps provide a comprehensive understanding of student perspectives.
+-Current survey methods often lack automation, which can lead to incomplete responses or no confirmation that answers have been recorded.
+-This project aims to develop a system that collects detailed student feedback and confirms submission by displaying a clear acknowledgement message: “Your response has been recorded.”
+-The dataset includes structured respondent details and multiple qualitative and quantitative questions, providing valuable insights for educators.
 ---
 
 ## 🎯 Project Objectives  
-Write at least **2–3 clear objectives** your project aims to achieve. Example:  
-- Objective 1: To analyze and summarize data from the chosen JSON dataset.  
-- Objective 2: To help users gain meaningful insights (e.g., averages, trends, patterns).  
-- Objective 3: To practice JSON handling and Python programming concepts.  
 
+Objective 1: To design a survey system that collects comprehensive student data including demographic details and detailed feedback on course elements.
+Objective 2: To ensure all responses are captured and validated before submission, improving data accuracy and completeness.
+Objective 3: To provide immediate feedback to respondents by displaying a confirmation message upon successful completion of the survey.
+Objective 4: To practice managing complex input data and output messages within a programming environment, enhancing data handling and user interaction skills.
 ---
 
 ## ⚙️ Planned Features  
